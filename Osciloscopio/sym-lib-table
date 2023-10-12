@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "Oscilloscopio-rescue")(type "Legacy")(uri "${KIPRJMOD}/Oscilloscopio-rescue.lib")(options "")(descr ""))
+  (lib (name "osc")(type "Legacy")(uri "${KIPRJMOD}/lib/osc.lib")(options "")(descr ""))
+)

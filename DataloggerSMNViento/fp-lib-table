@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name Poncho_Esqueleto)(type Github)(uri C:\Users\caranda\Desktop\Repositorios\PonchosEDU-CIAA\kicad\Poncho_Esqueleto.pretty)(options "")(descr ""))
+  (lib (name Poncho_Modelos)(type Github)(uri C:\Users\caranda\Desktop\Repositorios\PonchosEDU-CIAA\kicad\Poncho_Modelos.pretty)(options "")(descr ""))
+)

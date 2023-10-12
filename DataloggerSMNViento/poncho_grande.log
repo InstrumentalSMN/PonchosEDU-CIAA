@@ -1,0 +1,15 @@
+Questionable use of curly braces in "(comment (number 1) (value "autores: ver {../doc/cambios.txt} licencia: ver {../doc/licencia.txt}"))"
+    Error: too many decimal points in: "[../]doc/cambios.txt"
+Questionable use of curly braces in "(comment (number 1) (value "autores: ver (../doc/cambios.txt) licencia: ver {../doc/licencia.txt}"))"
+    Error: too many decimal points in: "[../]doc/licencia.txt"
+Questionable use of curly braces in "(comment (number 1) (value "autores: ver {../doc/cambios.txt} licencia: ver {../doc/licencia.txt}"))"
+    Error: too many decimal points in: "[../]doc/cambios.txt"
+Questionable use of curly braces in "(comment (number 1) (value "autores: ver (../doc/cambios.txt) licencia: ver {../doc/licencia.txt}"))"
+    Error: too many decimal points in: "[../]doc/licencia.txt"
+Questionable use of curly braces in "(comment (number 1) (value "autores: ver {../doc/cambios.txt} licencia: ver {../doc/licencia.txt}"))"
+    Error: too many decimal points in: "[../]doc/cambios.txt"
+Questionable use of curly braces in "(comment (number 1) (value "autores: ver (../doc/cambios.txt) licencia: ver {../doc/licencia.txt}"))"
+    Error: too many decimal points in: "[../]doc/licencia.txt"
+Circuit: (export (version D)
+
+Fatal Error: Unknown SPICE device type "(" in "(design"
