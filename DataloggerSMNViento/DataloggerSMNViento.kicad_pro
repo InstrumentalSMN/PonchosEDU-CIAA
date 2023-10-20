@@ -401,6 +401,15 @@
       "version": 1
     },
     "net_format_name": "",
+    "ngspice": {
+      "fix_include_paths": true,
+      "fix_passive_vals": false,
+      "meta": {
+        "version": 0
+      },
+      "model_mode": 0,
+      "workbook_filename": ""
+    },
     "page_layout_descr_file": "",
     "plot_directory": "",
     "spice_adjust_passive_values": false,
@@ -418,8 +427,24 @@
       "Conector del Poncho"
     ],
     [
-      "00000000-0000-0000-0000-0000560a0c1a",
-      "Circuito Principal"
+      "e5987da1-f340-4e92-b2a5-9be813c6b87d",
+      "Anemometro IBC"
+    ],
+    [
+      "64494939-092d-4e3a-bb90-648f8d6158ba",
+      "Ethernet"
+    ],
+    [
+      "69c3ea5b-21dc-472e-9ffd-9ad2bfb4ced0",
+      "Pwm"
+    ],
+    [
+      "8c6ba7b2-ab33-4a06-a0f4-1d74911ed47c",
+      "Status server"
+    ],
+    [
+      "a08b5bd7-4209-443f-9d4d-80c51766c502",
+      "Power Supply"
     ]
   ],
   "text_variables": {}

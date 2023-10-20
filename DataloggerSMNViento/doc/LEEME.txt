@@ -1,12 +1,19 @@
-TITULO PONCHO
+Datalogger para un sistema de calibración de anemometros en tunel de viento.
 =============
 
-<<Colocar información mínima y propósito del Poncho. La información completa puede estar en la wiki.>>
+Este poncho se arma en el contexto de la tesis de grado en Ingeniería electrónica, del señor Cristian Zozimo Aranda Cordero.
 
 URL: (URL en la wiki de la CIAA)
-FUNCIÓN: Para qué sirve el Poncho.
+FUNCIÓN: Este pongo se utiliza para adquirir, pre procesar y transmitir los datos de un anemometro ultrasonico bajo calibración a un servidor Web Socket.
 AUTORES/INSTITUCIONES: 
+Cristian Zozimo Aranda  Cordero / FIUBA y SMN
 
 
 
 <<Detalle y explicación de directorios o archivos adicionales que se incorporen.>>
+Se agregan los siguientes archivos que contiene los esquematicos adicionales
+
+- powerSupply.kicad_sch
+- pwm.kicad_sch
+- sensorIBC.kicad_sch
+- statusServer.kicad_sch

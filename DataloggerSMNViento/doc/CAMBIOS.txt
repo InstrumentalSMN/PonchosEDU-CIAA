@@ -1,12 +1,13 @@
 Historial de cambios realizados 
 ================================
 
-* Fecha: 
-* Autores: 
-* Archivos: 
+* Fecha: 20/10/2023
+* Autores: Cristian Aranda
+* Archivos: powerSupply.kicad_sch, pwm.kicad_sch, sensorIBC.kicad_sch, statusServer.kicad_sch, conector_poncho.kicad_sch
 * Descripción: Se parte de los Modelos de Ponchos en: 
                http://www.proyecto-ciaa.com.ar/devwiki/doku.php?id=desarrollo:edu-ciaa:ponchos_modelos
                <<Colocar aquí información de cambios importantes y de gran volumen, releases, contribuciones
                 de terceros, etc.>>
+				
 
 
