@@ -1,0 +1,21 @@
+Circuit: * C:\Users\caranda\Desktop\Repositorios\PonchosEDU-CIAA\DataloggerSMNViento\SimulacionesLTSPICE\Version1CircuitoTensionTunnel.asc
+
+Direct Newton iteration for .op point succeeded.
+
+Date: Tue Mar 19 15:39:09 2024
+Total elapsed time: 0.044 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 164
+traniter = 160
+tranpoints = 81
+accept = 81
+rejected = 0
+matrix size = 10
+fillins = 0
+solver = Normal
+Matrix Compiler1:      21 opcodes  0.1/[0.1]/0.1
+Matrix Compiler2: 672 bytes object code size  0.1/0.1/[0.1]
+

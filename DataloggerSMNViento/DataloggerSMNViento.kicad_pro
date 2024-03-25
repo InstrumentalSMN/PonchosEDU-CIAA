@@ -445,6 +445,10 @@
     [
       "a08b5bd7-4209-443f-9d4d-80c51766c502",
       "Power Supply"
+    ],
+    [
+      "2a4fbba7-05ad-45c9-bce5-0b7fecbc2915",
+      "SensorVoltajeADCTunnel"
     ]
   ],
   "text_variables": {}

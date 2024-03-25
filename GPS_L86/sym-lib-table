@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name "Poncho_L86-rescue")(type "Legacy")(uri "${KIPRJMOD}/Poncho_L86-rescue.lib")(options "")(descr ""))
+  (lib (name "L80")(type "Legacy")(uri "${KIPRJMOD}/Lib_L86/L80.lib")(options "")(descr ""))
+  (lib (name "Poncho_basico")(type "Legacy")(uri "${KIPRJMOD}/Lib_L86/Poncho_basico.lib")(options "")(descr ""))
+  (lib (name "Poncho_Esqueleto")(type "Legacy")(uri "${KIPRJMOD}/Lib_L86/Poncho_Esqueleto.lib")(options "")(descr ""))
+)
