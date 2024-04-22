@@ -1,0 +1,52 @@
+Circuit: * C:\Users\caranda\Desktop\Repositorios\PonchosEDU-CIAA\DataloggerSMNViento\SimulacionesLTSPICE\Version2CircuitoTensionTunnel.asc
+
+WARNING: Specified period is not longer than the sum of Trise, Tfall, and Ton for v1.  Increasing period to 0.00010002
+WARNING: Less than two connections to node VCC10V.  This node is used by Q1.
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+Gmin = 0.0123794
+Gmin = 0.00132923
+Gmin = 0.000142725
+vernier = 0.5
+vernier = 0.25
+Gmin = 5.17847e-005
+vernier = 0.333333
+vernier = 0.444444
+Gmin = 2.40372e-005
+vernier = 0.592592
+Gmin = 7.1139e-006
+vernier = 0.790123
+vernier = 1
+Gmin = 1.07562e-006
+Gmin = 1.15494e-007
+Gmin = 1.24011e-008
+Gmin = 1.33156e-009
+Gmin = 1.42975e-010
+Gmin = 1.53518e-011
+Gmin = 1.64839e-012
+Gmin = 1.76994e-013
+Gmin = 0
+Gmin stepping succeeded in finding the operating point.
+
+
+Date: Fri Apr 12 16:19:53 2024
+Total elapsed time: 4.286 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 68603
+traniter = 67771
+tranpoints = 28436
+accept = 22780
+rejected = 5656
+matrix size = 290
+fillins = 358
+solver = Normal
+Thread vector: 20.3/15.1[6] 9.1/4.6[6] 10.6/6.0[6] 1.1/1.6[1]  2592/500
+Matrix Compiler1: 35.58 KB object code size  10.8/4.3/[3.1]
+Matrix Compiler2: 30.02 KB object code size  4.5/6.2/[2.1]
+

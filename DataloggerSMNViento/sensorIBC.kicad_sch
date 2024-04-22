@@ -326,7 +326,7 @@
     (uuid 10f033f9-258d-42ba-ab36-9ff174376d79)
     (property "Reference" "R1" (id 0) (at 126.111 60.96 90))
     (property "Value" "1K" (id 1) (at 126.111 63.5 90))
-    (property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P15.24mm_Horizontal" (id 2) (at 126.111 69.342 90)
+    (property "Footprint" "Resistor_SMD:R_1206_3216Metric" (id 2) (at 126.111 69.342 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 126.111 67.564 0)

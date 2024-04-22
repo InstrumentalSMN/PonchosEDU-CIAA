@@ -1,4 +1,4 @@
-20632588703078212
+20634313385809278
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -58254,12 +58254,19 @@ ESP8266 WiFi microcontroller
 16
 16
 Modulos
+LM2596_StepDown
+
+
+0
+4
+4
+Modulos
 Rs485toTTL
 
 
 0
 8
-4
+8
 Modulos
 W5100_module
 
