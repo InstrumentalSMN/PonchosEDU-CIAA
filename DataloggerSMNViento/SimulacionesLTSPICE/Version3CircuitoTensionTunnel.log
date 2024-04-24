@@ -1,6 +1,6 @@
 Circuit: * C:\Users\caranda\Desktop\Repositorios\PonchosEDU-CIAA\DataloggerSMNViento\SimulacionesLTSPICE\Version3CircuitoTensionTunnel.asc
 
-WARNING: Specified period is not longer than the sum of Trise, Tfall, and Ton for v1.  Increasing period to 2.31546e-312
+WARNING: Specified period is not longer than the sum of Trise, Tfall, and Ton for v1.  Increasing period to 8.3549e-313
 Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
 Starting Gmin stepping
 Gmin = 10
@@ -17,60 +17,60 @@ vernier = 0.0625
 vernier = 0.03125
 vernier = 0.015625
 vernier = 0.0078125
-Gmin = 8.75469e-005
+Gmin = 8.68735e-005
 vernier = 0.0104167
 vernier = 0.0138889
-Gmin = 8.53918e-005
+Gmin = 8.47349e-005
 vernier = 0.0185185
-Gmin = 8.20086e-005
+Gmin = 8.13778e-005
 vernier = 0.0246913
 vernier = 0.0329218
-Gmin = 7.67606e-005
+Gmin = 7.61702e-005
 vernier = 0.0438957
 vernier = 0.0585276
-Gmin = 6.91371e-005
+Gmin = 6.86052e-005
 vernier = 0.0780367
-Gmin = 5.83731e-005
+Gmin = 5.79241e-005
 vernier = 0.104049
 vernier = 0.138732
-Gmin = 4.43082e-005
+Gmin = 4.39674e-005
 vernier = 0.184976
 vernier = 0.246634
-Gmin = 2.87263e-005
+Gmin = 2.85053e-005
 vernier = 0.328846
-Gmin = 1.43481e-005
+Gmin = 1.42377e-005
 vernier = 0.438461
 vernier = 0.584614
-Gmin = 4.71759e-006
+Gmin = 4.6813e-006
 vernier = 0.779486
 vernier = 1
-Gmin = 8.613e-007
-Gmin = 9.24814e-008
-Gmin = 9.93011e-009
-Gmin = 1.06624e-009
-Gmin = 1.14486e-010
-Gmin = 1.22929e-011
-Gmin = 1.31994e-012
-Gmin = 1.41727e-013
+Gmin = 8.54675e-007
+Gmin = 9.177e-008
+Gmin = 9.85373e-009
+Gmin = 1.05804e-009
+Gmin = 1.13606e-010
+Gmin = 1.21983e-011
+Gmin = 1.30979e-012
+Gmin = 1.40637e-013
 Gmin = 0
 Gmin stepping succeeded in finding the operating point.
 
 
-Date: Tue Apr 16 15:44:08 2024
-Total elapsed time: 3.148 seconds.
+Date: Tue Apr 23 17:12:18 2024
+Total elapsed time: 3.826 seconds.
 
 tnom = 27
 temp = 27
 method = modified trap
-totiter = 36139
-traniter = 34819
-tranpoints = 17395
-accept = 13446
-rejected = 3949
+totiter = 36205
+traniter = 34885
+tranpoints = 17416
+accept = 13464
+rejected = 3952
 matrix size = 277
-fillins = 345
+fillins = 339
 solver = Alternate
-Thread vector: 24.6/14.3[6] 12.9/5.3[6] 7.2/3.3[6] 4.5/8.2[1]  2592/500
-Matrix Compiler1: 43.27 KB object code size  19.0/13.7/[11.5]
-Matrix Compiler2: 32.67 KB object code size  4.9/5.9/[3.8]
+Thread vector: 39.8/23.8[6] 12.2/5.8[6] 11.8/5.1[6] 6.7/5.4[4]  2592/500
+Matrix Compiler1: 42.93 KB object code size  24.1/17.6/[16.3]
+Matrix Compiler2: 32.51 KB object code size  7.8/9.2/[5.8]
 
