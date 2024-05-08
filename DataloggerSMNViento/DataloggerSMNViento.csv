@@ -1,79 +1,82 @@
-"Source:,""C:\Users\caranda\Desktop\Repositorios\PonchosEDU-CIAA\DataloggerSMNViento\DataloggerSMNViento.kicad_sch""";;;;;;;;;;
-"Date:,""4/16/2024 1:42:34 PM""";;;;;;;;;;
-"Tool:,""Eeschema (6.0.9)""";;;;;;;;;;
-"Generator:,""C:\Program Files\KiCad\6.0\bin\scripting\plugins/bom_csv_grouped_by_value.py""";;;;;;;;;;
-"Component Count:,""39""";;;;;;;;;;
-;;;;;;;;;;
-Individual Components:;;;;;;;;;;
-;;;;;;;;;;
-Item;Qty;Reference(s);Value;LibPart;Footprint;Datasheet;Cantidad;precio;Vendedor;
-;;C1;100nF;Device:C;;~;2;;https://www.microelectronicash.com/c1206-100--det--C1206-100;
-;;C2;100nF;Device:C;;~;;;;
-;;C3;10nF;Device:C;;~;;;https://www.microelectronicash.com/c1206-10--det--C1206-10;https://www.sycelectronica.com.ar/articulo.php?codigo=C1206-103
-;;C4;1uF;Device:C;;~;;;https://www.microelectronicash.com/ce1x50smd--det--CE1X50SMD;https://www.sycelectronica.com.ar/articulo.php?codigo=V1M50
-;;D1;LED;Device:LED;LED_THT:LED_D3.0mm;~;;;https://www.microelectronicash.com/l-1206y--det--L-1206Y;
-;;D2;LED;Device:LED;LED_THT:LED_D3.0mm;~;;;https://www.microelectronicash.com/l-1206r--det--L-1206R;
-;;D3;LED;Device:LED;LED_THT:LED_D3.0mm;~;;;https://www.microelectronicash.com/l-1206g--det--L-1206G;
-;;D4;D_Zener;Device:D_Zener;Diode_THT:D_DO-35_SOD27_P12.70mm_Horizontal;~;;;https://www.microelectronicash.com/1n746-smd--det--1N746-SMD;
-;;D5;D_Schottky;Device:D_Schottky;Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal;~;;;https://www.microelectronicash.com/1n5819smd--det--1N5819SMD;
-;;D6;D_Schottky;Device:D_Schottky;Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal;~;;;https://www.microelectronicash.com/1n5819smd--det--1N5819SMD;
-;;J1;Screw_Terminal_01x03;Connector:Screw_Terminal_01x03;;~;;;;
-;;Q1;2N7000;Transistor_FET:2N7000;Package_TO_SOT_THT:TO-92_Inline;https://www.vishay.com/docs/70226/70226.pdf;;3;https://www.microelectronicash.com/2n7002--det--2N7002;
-;;Q2;2N7000;Transistor_FET:2N7000;Package_TO_SOT_THT:TO-92_Inline;https://www.vishay.com/docs/70226/70226.pdf;;;;
-;;Q3;2N7000;Transistor_FET:2N7000;Package_TO_SOT_THT:TO-92_Inline;https://www.vishay.com/docs/70226/70226.pdf;;;;
-;;R1;1K;Device:R;Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P15.24mm_Horizontal;~;3;;https://www.microelectronicash.com/r1206-1k--det--R1206-1K;
-;;R2;330K;Device:R;Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P15.24mm_Horizontal;~;2;;https://www.microelectronicash.com/r1206-330k--det--R1206-330K;
-;;R3;10K;Device:R;Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P15.24mm_Horizontal;~;6;;https://www.microelectronicash.com/r1206-10k--det--R1206-10K;
-;;R4;680;Device:R;Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P15.24mm_Horizontal;~;3;;https://www.microelectronicash.com/r1206-680--det--R1206-680;
-;;R5;330K;Device:R;Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P15.24mm_Horizontal;~;;;;
-;;R6;10K;Device:R;Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P15.24mm_Horizontal;~;;;;
-;;R7;680;Device:R;Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P15.24mm_Horizontal;~;;;;
-;;R8;330K;Device:R;Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P15.24mm_Horizontal;~;;;;
-;;R9;10K;Device:R;Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P15.24mm_Horizontal;~;;;;
-;;R10;680;Device:R;Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P15.24mm_Horizontal;~;;;;
-;;R11;1k;Device:R;Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P15.24mm_Horizontal;~;;;;
-;;R12;3k9;Device:R;Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P15.24mm_Horizontal;~;1;;;https://www.sycelectronica.com.ar/articulo.php?codigo=CR1206-3K9
-;;R13;10k;Device:R;Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P15.24mm_Horizontal;~;;;;
-;;R15;33k;Device:R;Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P15.24mm_Horizontal;~;2;;https://www.microelectronicash.com/r1206-33k--det--R1206-33K;
-;;R16;10k;Device:R;;~;;;;
-;;R17;10k;Device:R;;~;;;;
-;;R18;1k;Device:R;Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P15.24mm_Horizontal;~;;;;
-;;R19;33k;Device:R;;~;;;;
-;;RV1;R_Potentiometer_Trim 10K;Device:R_Potentiometer_Trim;Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical;~;;;Ya comprado;
-;;RV2;R_Potentiometer_Trim;Device:R_Potentiometer_Trim;Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical;~;;;Ya comprado;
-;;U1;MAX485E;Interface_UART:MAX485E;Modulos:Rs485toTTL;https://datasheets.maximintegrated.com/en/ds/MAX1487E-MAX491E.pdf;;;Ya comprado;
-;;U2;w5100_module;New_Library:w5100_module;Modulos:W5100_module;;;;Ya comprado;
-;;U3;LM2596S-HW-319-v6_module;New_Library:LM2596S-HW-319-v6_module;Modulos:LM2596_StepDown;;;;Ya comprado;
-;;U5;LM358;Amplifier_Operational:LM358;;http://www.ti.com/lit/ds/symlink/lm2904-n.pdf;4;2999;https://www.microelectronicash.com/lm358d--det--LM358D;
-;;XA1;Conn_Poncho2P_2x_20x2;Poncho_Esqueleto:Conn_Poncho2P_2x_20x2;mod:poncho_grande;;;;;
-;;;;;;;;;;
-;;;;;;;;;;
-;;;;;;;;;;
-Collated Components:;;;;;;;;;;
-;;;;;;;;;;
-"Item,""Qty"",""Reference(s)"",""Value"",""LibPart"",""Footprint"",""Datasheet""";;;;;;;;;;
-"1,""2"",""C1, C2"",""100nF"",""Device:C"","""",""~""";;;;;;;;;;
-"2,""1"",""C3"",""10nF"",""Device:C"","""",""~""";;;;;;;;;;
-"3,""1"",""C4"",""1uF"",""Device:C"","""",""~""";;;;;;;;;;
-"4,""3"",""D1, D2, D3"",""LED"",""Device:LED"",""LED_THT:LED_D3.0mm"",""~""";;;;;;;;;;
-"5,""1"",""D4"",""D_Zener"",""Device:D_Zener"",""Diode_THT:D_DO-35_SOD27_P12.70mm_Horizontal"",""~""";;;;;;;;;;
-"6,""2"",""D5, D6"",""D_Schottky"",""Device:D_Schottky"",""Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal"",""~""";;;;;;;;;;
-"7,""1"",""J1"",""Screw_Terminal_01x03"",""Connector:Screw_Terminal_01x03"","""",""~""";;;;;;;;;;
-"8,""3"",""Q1, Q2, Q3"",""2N7000"",""Transistor_FET:2N7000"",""Package_TO_SOT_THT:TO-92_Inline"",""https://www.vishay.com/docs/70226/70226.pdf""";;;;;;;;;;
-"9,""1"",""R1"",""1K"",""Device:R"",""Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P15.24mm_Horizontal"",""~""";;;;;;;;;;
-"10,""3"",""R2, R5, R8"",""330K"",""Device:R"",""Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P15.24mm_Horizontal"",""~""";;;;;;;;;;
-"11,""3"",""R3, R6, R9"",""10K"",""Device:R"",""Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P15.24mm_Horizontal"",""~""";;;;;;;;;;
-"12,""3"",""R4, R7, R10"",""680"",""Device:R"",""Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P15.24mm_Horizontal"",""~""";;;;;;;;;;
-"13,""2"",""R11, R18"",""1k"",""Device:R"",""Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P15.24mm_Horizontal"",""~""";;;;;;;;;;
-"14,""1"",""R12"",""3k9"",""Device:R"",""Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P15.24mm_Horizontal"",""~""";;;;;;;;;;
-"15,""1"",""R13"",""10k"",""Device:R"",""Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P15.24mm_Horizontal"",""~""";;;;;;;;;;
-"16,""1"",""R15"",""33k"",""Device:R"",""Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P15.24mm_Horizontal"",""~""";;;;;;;;;;
-"17,""2"",""R16, R17"",""10k"",""Device:R"","""",""~""";;;;;;;;;;
-"18,""1"",""R19"",""33k"",""Device:R"","""",""~""";;;;;;;;;;
-"19,""1"",""RV1"",""R_Potentiometer_Trim 10K"",""Device:R_Potentiometer_Trim"",""Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical"",""~""";;;;;;;;;;
-"20,""1"",""RV2"",""R_Potentiometer_Trim"",""Device:R_Potentiometer_Trim"",""Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical"",""~""";;;;;;;;;;
-"21,""1"",""U1"",""MAX485E"",""Interface_UART:MAX485E"",""Modulos:Rs485toTTL"",""https://datasheets.maximintegrated.com/en/ds/MAX1487E-MAX491E.pdf""";;;;;;;;;;
-"22,""1"",""U2"",""w5100_module"",""New_Library:w5100_module"",""Modulos:W5100_module"",""""";;;;;;;;;;
-"23,""1"",""U3"",""LM2596S-HW-319-v6_module"",""New_Library:LM2596S-HW-319-v6_module"",""Modulos:LM2596_StepDown"",""""";;;;;;;;;;
-"24,""1"",""U5"",""LM358"",""Amplifier_Operational:LM358"","""",""http://www.ti.com/lit/ds/symlink/lm2904-n.pdf""";;;;;;;;;;
-"25,""1"",""XA1"",""Conn_Poncho2P_2x_20x2"",""Poncho_Esqueleto:Conn_Poncho2P_2x_20x2"",""mod:poncho_grande"",""""";;;;;;;;;;
+"Source:","C:\Users\caranda\Desktop\Repositorios\PonchosEDU-CIAA\DataloggerSMNViento\DataloggerSMNViento.kicad_sch"
+"Date:","4/26/2024 10:37:04 AM"
+"Tool:","Eeschema (6.0.9)"
+"Generator:","C:\Program Files\KiCad\6.0\bin\scripting\plugins/bom_csv_grouped_by_value.py"
+"Component Count:","42"
+
+"Individual Components:"
+
+"Item","Qty","Reference(s)","Value","LibPart","Footprint","Datasheet"
+"","","C1","100nF","Device:C","Capacitor_SMD:C_1206_3216Metric","~"
+"","","C2","100nF","Device:C","Capacitor_SMD:C_1206_3216Metric","~"
+"","","C3","10nF","Device:C","Capacitor_SMD:C_1206_3216Metric","~"
+"","","C4","C_Polarized 1uF","Device:C_Polarized","Capacitor_SMD:CP_Elec_6.3x9.9","~"
+"","","D1","LED_Dual_AKA","Device:LED_Dual_AKA","LED_THT:LED_D3.0mm-3","~"
+"","","D2","LED","Device:LED","LED_THT:LED_D3.0mm","~"
+"","","D3","LED","Device:LED","LED_THT:LED_D3.0mm","~"
+"","","D4","D_Zener","Device:D_Zener","Diode_THT:D_DO-34_SOD68_P7.62mm_Horizontal","~"
+"","","D5","D_Schottky","Device:D_Schottky","Diode_SMD:D_2010_5025Metric","~"
+"","","D6","D_Schottky","Device:D_Schottky","Diode_SMD:D_2010_5025Metric","~"
+"","","J1","Screw_Terminal_01x03","Connector:Screw_Terminal_01x03","TerminalBlock:TerminalBlock_Altech_AK300-3_P5.00mm","~"
+"","","J2","Screw_Terminal_01x02","Connector:Screw_Terminal_01x02","TerminalBlock:TerminalBlock_Altech_AK300-2_P5.00mm","~"
+"","","J3","Vcc 5V SD","Connector:Conn_01x01_Male","Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical","~"
+"","","J4","GND SD","Connector:Conn_01x01_Male","Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical","~"
+"","","Q1","Q_NPN_BEC","Device:Q_NPN_BEC","Package_TO_SOT_SMD:SOT-23","~"
+"","","Q2","Q_NPN_BEC","Device:Q_NPN_BEC","Package_TO_SOT_SMD:SOT-23","~"
+"","","Q3","Q_NPN_BEC","Device:Q_NPN_BEC","Package_TO_SOT_SMD:SOT-23","~"
+"","","Q4","Q_NPN_BEC","Device:Q_NPN_BEC","Package_TO_SOT_SMD:SOT-23","~"
+"","","R1","1K","Device:R","Resistor_SMD:R_1206_3216Metric","~"
+"","","R2","39","Device:R","Resistor_SMD:R_1206_3216Metric","~"
+"","","R3","1k","Device:R","Resistor_SMD:R_1206_3216Metric","~"
+"","","R4","1k","Device:R","Resistor_SMD:R_1206_3216Metric","~"
+"","","R5","39","Device:R","Resistor_SMD:R_1206_3216Metric","~"
+"","","R6","1k","Device:R","Resistor_SMD:R_1206_3216Metric","~"
+"","","R7","39","Device:R","Resistor_SMD:R_1206_3216Metric","~"
+"","","R11","1k","Device:R","Resistor_SMD:R_1206_3216Metric","~"
+"","","R12","3k9","Device:R","Resistor_SMD:R_1206_3216Metric","~"
+"","","R13","10k","Device:R","Resistor_SMD:R_1206_3216Metric","~"
+"","","R14","1k","Device:R","Resistor_SMD:R_1206_3216Metric","~"
+"","","R15","33k","Device:R","Resistor_SMD:R_1206_3216Metric","~"
+"","","R16","10k","Device:R","Resistor_SMD:R_1206_3216Metric","~"
+"","","R17","10k","Device:R","Resistor_SMD:R_1206_3216Metric","~"
+"","","R18","1k","Device:R","Resistor_SMD:R_1206_3216Metric","~"
+"","","R19","33k","Device:R","Resistor_SMD:R_1206_3216Metric","~"
+"","","R20","39","Device:R","Resistor_SMD:R_1206_3216Metric","~"
+"","","RV1","R_Filter_Trim 10K","Device:R_Potentiometer_Trim","Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical","~"
+"","","RV2","R_Atenuator_Trim","Device:R_Potentiometer_Trim","Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical","~"
+"","","U1","MAX485E","Interface_UART:MAX485E","Modulos:Rs485toTTL","https://datasheets.maximintegrated.com/en/ds/MAX1487E-MAX491E.pdf"
+"","","U2","w5100_module","New_Library:w5100_module","Modulos:W5100_module",""
+"","","U3","LM2596S-HW-319-v6_module","New_Library:LM2596S-HW-319-v6_module","Modulos:LM2596_StepDown",""
+"","","U5","LM358","Amplifier_Operational:LM358","Package_SO:SO-8_3.9x4.9mm_P1.27mm","http://www.ti.com/lit/ds/symlink/lm2904-n.pdf"
+"","","XA1","Conn_Poncho2P_2x_20x2","Poncho_Esqueleto:Conn_Poncho2P_2x_20x2","mod:poncho_grande",""
+
+
+
+"Collated Components:"
+
+"Item","Qty","Reference(s)","Value","LibPart","Footprint","Datasheet"
+"1","2","C1, C2","100nF","Device:C","Capacitor_SMD:C_1206_3216Metric","~"
+"2","1","C3","10nF","Device:C","Capacitor_SMD:C_1206_3216Metric","~"
+"3","1","C4","C_Polarized 1uF","Device:C_Polarized","Capacitor_SMD:CP_Elec_6.3x9.9","~"
+"4","1","D1","LED_Dual_AKA","Device:LED_Dual_AKA","LED_THT:LED_D3.0mm-3","~"
+"5","2","D2, D3","LED","Device:LED","LED_THT:LED_D3.0mm","~"
+"6","1","D4","D_Zener","Device:D_Zener","Diode_THT:D_DO-34_SOD68_P7.62mm_Horizontal","~"
+"7","2","D5, D6","D_Schottky","Device:D_Schottky","Diode_SMD:D_2010_5025Metric","~"
+"8","1","J1","Screw_Terminal_01x03","Connector:Screw_Terminal_01x03","TerminalBlock:TerminalBlock_Altech_AK300-3_P5.00mm","~"
+"9","1","J2","Screw_Terminal_01x02","Connector:Screw_Terminal_01x02","TerminalBlock:TerminalBlock_Altech_AK300-2_P5.00mm","~"
+"10","1","J3","Vcc 5V SD","Connector:Conn_01x01_Male","Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical","~"
+"11","1","J4","GND SD","Connector:Conn_01x01_Male","Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical","~"
+"12","4","Q1, Q2, Q3, Q4","Q_NPN_BEC","Device:Q_NPN_BEC","Package_TO_SOT_SMD:SOT-23","~"
+"13","1","R1","1K","Device:R","Resistor_SMD:R_1206_3216Metric","~"
+"14","4","R2, R5, R7, R20","39","Device:R","Resistor_SMD:R_1206_3216Metric","~"
+"15","6","R3, R4, R6, R11, R14, R18","1k","Device:R","Resistor_SMD:R_1206_3216Metric","~"
+"16","1","R12","3k9","Device:R","Resistor_SMD:R_1206_3216Metric","~"
+"17","3","R13, R16, R17","10k","Device:R","Resistor_SMD:R_1206_3216Metric","~"
+"18","2","R15, R19","33k","Device:R","Resistor_SMD:R_1206_3216Metric","~"
+"19","1","RV1","R_Filter_Trim 10K","Device:R_Potentiometer_Trim","Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical","~"
+"20","1","RV2","R_Atenuator_Trim","Device:R_Potentiometer_Trim","Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical","~"
+"21","1","U1","MAX485E","Interface_UART:MAX485E","Modulos:Rs485toTTL","https://datasheets.maximintegrated.com/en/ds/MAX1487E-MAX491E.pdf"
+"22","1","U2","w5100_module","New_Library:w5100_module","Modulos:W5100_module",""
+"23","1","U3","LM2596S-HW-319-v6_module","New_Library:LM2596S-HW-319-v6_module","Modulos:LM2596_StepDown",""
+"24","1","U5","LM358","Amplifier_Operational:LM358","Package_SO:SO-8_3.9x4.9mm_P1.27mm","http://www.ti.com/lit/ds/symlink/lm2904-n.pdf"
+"25","1","XA1","Conn_Poncho2P_2x_20x2","Poncho_Esqueleto:Conn_Poncho2P_2x_20x2","mod:poncho_grande",""

@@ -1582,7 +1582,7 @@
       (reference "C3") (unit 1) (value "10nF") (footprint "Capacitor_SMD:C_1206_3216Metric")
     )
     (path "/a08b5bd7-4209-443f-9d4d-80c51766c502/d5f54700-9d0c-44e1-a99d-d508b096b69b"
-      (reference "C4") (unit 1) (value "C_Polarized 1uF") (footprint "Capacitor_SMD:CP_Elec_6.3x9.9")
+      (reference "C4") (unit 1) (value "C_Polarized 1uF") (footprint "Capacitor_SMD:CP_Elec_4x5.3")
     )
     (path "/8c6ba7b2-ab33-4a06-a0f4-1d74911ed47c/b349dd26-6410-4e6a-b7ca-ab95a257d28a"
       (reference "D1") (unit 1) (value "LED_Dual_AKA") (footprint "LED_THT:LED_D3.0mm-3")
@@ -1597,10 +1597,10 @@
       (reference "D4") (unit 1) (value "D_Zener") (footprint "Diode_THT:D_DO-34_SOD68_P7.62mm_Horizontal")
     )
     (path "/2a4fbba7-05ad-45c9-bce5-0b7fecbc2915/504bcf46-3279-4780-85c4-0d48d8fd0fd1"
-      (reference "D5") (unit 1) (value "D_Schottky") (footprint "Diode_SMD:D_2010_5025Metric")
+      (reference "D5") (unit 1) (value "D_Schottky") (footprint "Diode_SMD:D_SOD-128")
     )
     (path "/2a4fbba7-05ad-45c9-bce5-0b7fecbc2915/4d705a0d-3913-46bf-8e61-3333bf4bc2fa"
-      (reference "D6") (unit 1) (value "D_Schottky") (footprint "Diode_SMD:D_2010_5025Metric")
+      (reference "D6") (unit 1) (value "D_Schottky") (footprint "Diode_SMD:D_SOD-128")
     )
     (path "/2a4fbba7-05ad-45c9-bce5-0b7fecbc2915/f61d1784-14c2-47b7-b274-b88c3cb04c72"
       (reference "J1") (unit 1) (value "Screw_Terminal_01x03") (footprint "TerminalBlock:TerminalBlock_Altech_AK300-3_P5.00mm")
@@ -1693,13 +1693,13 @@
       (reference "U3") (unit 1) (value "LM2596S-HW-319-v6_module") (footprint "Modulos:LM2596_StepDown")
     )
     (path "/69c3ea5b-21dc-472e-9ffd-9ad2bfb4ced0/5c692814-d924-444d-9a9c-a066356b3a6e"
-      (reference "U5") (unit 1) (value "LM358") (footprint "Package_SO:SO-8_3.9x4.9mm_P1.27mm")
+      (reference "U5") (unit 1) (value "LM358") (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
     )
     (path "/2a4fbba7-05ad-45c9-bce5-0b7fecbc2915/3205d2fe-a707-4dc9-8a1f-3dbd32e2c26f"
-      (reference "U5") (unit 2) (value "LM358") (footprint "Package_SO:SO-8_3.9x4.9mm_P1.27mm")
+      (reference "U5") (unit 2) (value "LM358") (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
     )
     (path "/a08b5bd7-4209-443f-9d4d-80c51766c502/bd2e9d99-b673-4aeb-9573-c9c17ba2cb43"
-      (reference "U5") (unit 3) (value "LM358") (footprint "Package_SO:SO-8_3.9x4.9mm_P1.27mm")
+      (reference "U5") (unit 3) (value "LM358") (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
     )
     (path "/00000000-0000-0000-0000-0000560a0c15/00000000-0000-0000-0000-0000560c57b9"
       (reference "XA1") (unit 1) (value "Conn_Poncho2P_2x_20x2") (footprint "mod:poncho_grande")

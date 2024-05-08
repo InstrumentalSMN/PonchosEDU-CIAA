@@ -661,7 +661,6 @@
     )
   )
 
-
   (junction (at 110.744 85.852) (diameter 0) (color 0 0 0 0)
     (uuid 56fa05f8-c788-4945-b163-1d031b067658)
   )
@@ -1188,7 +1187,7 @@
     (property "Value" "LM358" (id 1) (at 81.28 48.1329 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Package_SO:SO-8_3.9x4.9mm_P1.27mm" (id 2) (at 82.169 46.863 0)
+    (property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm" (id 2) (at 82.169 46.863 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "http://www.ti.com/lit/ds/symlink/lm2904-n.pdf" (id 3) (at 82.169 46.863 0)
@@ -1228,7 +1227,7 @@
     (property "Value" "C_Polarized 1uF" (id 1) (at 108.077 37.592 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Capacitor_SMD:CP_Elec_6.3x9.9" (id 2) (at 106.8832 47.244 0)
+    (property "Footprint" "Capacitor_SMD:CP_Elec_4x5.3" (id 2) (at 106.8832 47.244 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 105.918 43.434 0)

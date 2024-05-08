@@ -457,7 +457,7 @@
     (uuid 5c692814-d924-444d-9a9c-a066356b3a6e)
     (property "Reference" "U5" (id 0) (at 152.146 38.1 0))
     (property "Value" "LM358" (id 1) (at 152.146 40.64 0))
-    (property "Footprint" "Package_SO:SO-8_3.9x4.9mm_P1.27mm" (id 2) (at 152.146 48.26 0)
+    (property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm" (id 2) (at 152.146 48.26 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "http://www.ti.com/lit/ds/symlink/lm2904-n.pdf" (id 3) (at 152.146 48.26 0)
